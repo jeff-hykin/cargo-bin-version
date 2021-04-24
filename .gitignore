@@ -2,6 +2,8 @@
 # Custom
 # 
 
+# rust binary
+/target
 
 # 
 # standard
